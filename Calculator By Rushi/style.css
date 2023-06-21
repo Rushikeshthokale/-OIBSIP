@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+html,body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(69, 181, 255);
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 42px;
+    cursor: pointer; 
+    width: 66px;
+    color: white;
+    font-size: 20px;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    width: 291px;
+    font-size: 35px;
+    margin: 0;
+    padding: 18px 10px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+#EqualTo{
+    padding: 22px 69px ;
+    background-color:rgb(0, 38, 255) ;
+}
+#EqualTo:hover{
+    background-color:rgb(173, 173, 250);
+    color: black;
+}
+.container{
+    padding: 10px 50px;
+}
+.container2{
+    /* margin: 33px 525px; */
+    border: 2px solid black;
+    width: 444px;
+    background-color:aqua
+    
+}
+
+#ClearButton{
+    background-color: red;
+    
+}
+#ClearButton:hover{
+background-color: pink;
+color: black;
+}
+
+#DeleteButton{
+    background-color:blue
+}
+#DeleteButton:hover{
+    background-color:rgb(173, 173, 250);
+    color: black;
+}
+
+#DotButton{
+    background-color:rgb(0, 38, 255); 
+}
+#DotButton:hover{
+    background-color:rgb(173, 173, 250);
+    color: black;
+}
+
+#PlusButton{
+    background-color: rgb(0, 38, 255);
+}
+
+#PlusButton:hover{
+    background-color:rgb(173, 173, 250);
+    color: black;
+}
+
+#MinusButton{
+    background-color:rgb(0, 38, 255) ;
+}
+
+#MinusButton:hover{
+    background-color:rgb(173, 173, 250);
+    color: black;
+}
+
+#MultiplyButton{
+    background-color:rgb(0, 38, 255) ;
+}
+
+#MultiplyButton:hover{
+    background-color:rgb(173, 173, 250);
+    color: black;
+}
+
+#DivideButton{
+    background-color:rgb(0, 38, 255) ;
+}
+#DivideButton:hover{
+    background-color:rgb(173, 173, 250);
+    color: black;
+}
+
+#Button8{
+    color: black;
+}
+#Button8:hover{
+    background-color: grey;
+    color: white;
+}
+
+#Button9{
+    color: black;
+}
+#Button9:hover{
+    background-color: grey;
+    color: white;
+}
+
+#Button7{
+    color: black;
+}
+
+#Button7:hover{
+    background-color: grey;
+    color: white;
+}
+
+#Button6{
+    color: black;
+}
+
+#Button6:hover{
+    background-color: grey;
+    color: white;
+}
+
+#Button5{
+    color: black;
+}
+
+#Button5:hover{
+    background-color: grey;
+    color: white;
+}
+#Button4{
+    color: black;
+}
+#Button4:hover{
+    background-color: grey;
+    color: white;
+}
+#Button3{
+    color:black;
+}
+
+#Button3:hover{
+    background-color: grey;
+    color: white;
+}
+#Button2{
+    color: black;
+}
+
+#Button2:hover{
+    background-color: grey;
+    color: white;
+}
+#Button1{
+    color: black;
+}
+
+#Button1:hover{
+    background-color: grey;
+    color: white;
+}
+#One0{
+    color: black;
+}
+
+#One0:hover{
+    background-color: grey;
+    color: white;
+}
+#Two0{
+    color: black;
+}
+
+#Two0:hover{
+    background-color: grey;
+    color: white;
+}
